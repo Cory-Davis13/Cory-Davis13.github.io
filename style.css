@@ -63,6 +63,11 @@ li {
   transform: translateY(-5px);
 }
 
+.header-logo {
+  height: 55px;
+  width: auto;
+}
+
 .hero-image {
   background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
     url("static/images/niagara-region.jpg");
