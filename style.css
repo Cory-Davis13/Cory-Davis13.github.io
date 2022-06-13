@@ -1,5 +1,4 @@
 body {
-  max-width: 1400px;
   margin-left: auto;
   margin-right: auto;
   font-family: sans-serif;
@@ -23,6 +22,7 @@ li {
   background-repeat: no-repeat;
   background-size: cover;
   position: relative;
+  max-width: 1400px;
 }
 
 .hero-text {
