@@ -10,6 +10,13 @@ body {
   height: 100%;
 }
 
+a,
+a:visited,
+a:hover,
+a:active {
+  color: inherit;
+}
+
 ul {
   padding: 0;
   display: flex;
