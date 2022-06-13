@@ -20,6 +20,8 @@ li {
 }
 
 .btn {
+  background-color: rgb(24, 24, 54);
+  color: white;
 }
 
 .hero-image {
