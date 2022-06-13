@@ -2,10 +2,12 @@ body {
   max-width: 1400px;
   margin-left: auto;
   margin-right: auto;
-  height: 100%;
+  font-family: sans-serif;
 }
 
-html {
+html,
+main,
+body {
   height: 100%;
 }
 
