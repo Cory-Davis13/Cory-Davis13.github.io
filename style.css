@@ -46,6 +46,7 @@ li {
   color: white;
   padding: 1rem;
   border: none;
+  cursor: pointer;
 }
 
 .hero-image {
