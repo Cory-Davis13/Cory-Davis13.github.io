@@ -1,4 +1,5 @@
 body {
+  margin: 0;
   margin-left: auto;
   margin-right: auto;
   font-family: sans-serif;
@@ -18,8 +19,14 @@ a:active {
   text-decoration: none;
 }
 
+header {
+  height: 60px;
+  color: rgb(14, 26, 26);
+}
+
 ul {
   padding: 0;
+  margin: 0;
   display: flex;
 }
 
