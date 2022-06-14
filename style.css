@@ -66,6 +66,13 @@ li {
 
 .contact {
   display: flex;
+  max-width: 1400px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.contact-content {
+  text-align: left;
 }
 
 .header-logo {
@@ -106,12 +113,6 @@ li {
   line-height: 22px;
   max-width: 1400px;
   text-align: left;
-  margin-left: auto;
-  margin-right: auto;
-}
-
-.text-image-block {
-  max-width: 1400px;
   margin-left: auto;
   margin-right: auto;
   margin-top: 50px;
