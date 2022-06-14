@@ -1,5 +1,5 @@
 alert("script loaded");
 
-document
-  .getElementById("btn")
-  .addEventListener("click", alert("button clicked"));
+const submitBtn = document.getElementById("btn");
+
+submitBtn.addEventListener("click", alert("button clicked"));
