@@ -89,7 +89,6 @@ li {
   background-repeat: no-repeat;
   object-fit: cover;
   position: relative;
-  max-width: 1400px;
   margin-left: auto;
   margin-right: auto;
 }
