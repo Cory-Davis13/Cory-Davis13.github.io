@@ -49,22 +49,24 @@ li {
 }
 
 .btn {
-  background-color: #dfdfdf;
-  color: #343434;
+  background-color: transparent;
+  color: white;
   padding: 1rem;
   border: none;
   cursor: pointer;
   font-weight: 600;
+  border-radius: 10px;
+  border: 2px solid white;
+  font-size: 18px;
+  font-weight: 500;
 }
 
 .btn:hover {
-  background-color: #dfdfdf;
   box-shadow: 0px 15px 20px rgba(0, 0, 0, 0.4);
   transform: translateY(-7px);
 }
 
 .btn:active {
-  background-color: #dfdfdf;
   box-shadow: 0px 15px 20px rgba(0, 0, 0, 0.4);
   transform: translateY(-5px);
 }
