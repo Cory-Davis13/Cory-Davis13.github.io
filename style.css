@@ -73,7 +73,7 @@ li {
   height: 50%;
   background-position: center;
   background-repeat: no-repeat;
-  background-size: cover;
+  object-fit: cover;
   position: relative;
   max-width: 1400px;
   margin-left: auto;
