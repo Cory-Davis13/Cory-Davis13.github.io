@@ -74,6 +74,8 @@ li {
 
 .contact-content {
   text-align: left;
+  max-width: 50%;
+  padding-right: 100px;
 }
 
 .header-logo {
