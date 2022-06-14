@@ -124,7 +124,8 @@ li {
 }
 
 .nav-link:hover {
-  color: #3b3b3b;
+  color: #afafaf;
+  border-top: 1px solid #afafaf;
 }
 
 .text-content {
