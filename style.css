@@ -37,6 +37,16 @@ p {
   line-height: 22px;
 }
 
+nav a ::before {
+  content: "";
+  display: block;
+  height: 5px;
+  width: 100%;
+  background-color: #dfdfdf;
+  position: absolute;
+  top: 0;
+}
+
 nav ul {
   padding: 0;
   margin: 0;
@@ -46,6 +56,7 @@ nav ul {
 nav li {
   list-style: none;
   margin-left: 3rem;
+  position: relative;
 }
 
 .btn {
@@ -125,11 +136,11 @@ nav li {
   text-transform: uppercase;
 }
 
-.nav-link:hover {
+/* .nav-link:hover {
   color: #dfdfdf;
   font-weight: 700;
   border-top: 3px solid #dfdfdf;
-}
+} */
 
 .text-content {
   line-height: 22px;
