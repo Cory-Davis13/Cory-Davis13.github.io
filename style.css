@@ -18,7 +18,7 @@ a:active {
 
 header {
   height: 60px;
-  background-color: rgb(14, 26, 26);
+  background-color: #0e34a0;
   display: flex;
   align-items: center;
   justify-content: space-around;
@@ -44,8 +44,8 @@ li {
 }
 
 .btn {
-  background-color: rgb(32 32 205);
-  color: white;
+  background-color: #dfdfdf;
+  color: #343434;
   padding: 1rem;
   border: none;
   cursor: pointer;
@@ -53,16 +53,14 @@ li {
 }
 
 .btn:hover {
-  background-color: rgb(39, 39, 252);
+  background-color: #dfdfdf;
   box-shadow: 0px 15px 20px rgba(0, 0, 0, 0.4);
-  color: #fff;
   transform: translateY(-7px);
 }
 
 .btn:active {
-  background-color: rgb(39, 39, 252);
+  background-color: #dfdfdf;
   box-shadow: 0px 15px 20px rgba(0, 0, 0, 0.4);
-  color: #fff;
   transform: translateY(-5px);
 }
 
