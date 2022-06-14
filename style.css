@@ -44,7 +44,7 @@ nav a::before {
   width: 100%;
   background-color: #dfdfdf;
   position: absolute;
-  top: 0;
+  top: -100%;
 }
 
 nav ul {
@@ -132,7 +132,7 @@ nav li {
 .nav-link {
   color: #dfdfdf;
   font-weight: 500;
-  padding-top: 17px;
+  padding-top: 20px;
   text-transform: uppercase;
 }
 
