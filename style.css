@@ -123,6 +123,10 @@ li {
   font-weight: 700;
 }
 
+.nav-link:hover {
+  color: #3b3b3b;
+}
+
 .text-content {
   line-height: 22px;
   margin: 1rem;
