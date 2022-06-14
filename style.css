@@ -78,6 +78,10 @@ li {
   padding-right: 100px;
 }
 
+.contact-details {
+  margin: 2rem;
+}
+
 .header-logo {
   height: 45px;
   width: auto;
