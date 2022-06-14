@@ -40,11 +40,12 @@ p {
 nav a::before {
   content: "";
   display: block;
-  height: 5px;
+  height: 10px;
   width: 0;
   background-color: #dfdfdf;
   position: absolute;
   top: -100%;
+  transition: all ease-in-out 250;
 }
 
 nav a:hover::before {
