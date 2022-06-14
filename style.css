@@ -37,7 +37,7 @@ p {
   line-height: 22px;
 }
 
-nav a ::before {
+nav a::before {
   content: "";
   display: block;
   height: 5px;
