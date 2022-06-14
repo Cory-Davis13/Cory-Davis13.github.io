@@ -47,18 +47,19 @@ li {
   padding: 1rem;
   border: none;
   cursor: pointer;
+  font-weight: 600;
 }
 
 .btn:hover {
   background-color: rgb(39, 39, 252);
-  box-shadow: 0px 15px 20px rgba(39, 39, 252, 0.4);
+  box-shadow: 0px 15px 20px rgba(0, 0, 0, 0.4);
   color: #fff;
   transform: translateY(-7px);
 }
 
 .btn:active {
   background-color: rgb(39, 39, 252);
-  box-shadow: 0px 15px 20px rgba(39, 39, 252, 0.4);
+  box-shadow: 0px 15px 20px rgba(0, 0, 0, 0.4);
   color: #fff;
   transform: translateY(-5px);
 }
