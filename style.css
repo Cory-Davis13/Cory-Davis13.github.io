@@ -43,7 +43,7 @@ nav ul {
   display: flex;
 }
 
-li {
+nav li {
   list-style: none;
   margin-left: 3rem;
 }
@@ -121,7 +121,8 @@ li {
 .nav-link {
   color: #dfdfdf;
   font-weight: 700;
-  padding-top: 15px;
+  padding-top: 17px;
+  text-transform: uppercase;
 }
 
 .nav-link:hover {
