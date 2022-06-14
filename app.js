@@ -1,4 +1,6 @@
 const submitBtn = document.getElementById("btn");
 console.log(submitBtn);
 
-submitBtn.addEventListener("click", console.log("button clicked"));
+submitBtn.addEventListener("click", function () {
+  console.log("button clicked");
+});
