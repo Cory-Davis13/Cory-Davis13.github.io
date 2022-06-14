@@ -1,5 +1,3 @@
-// alert("script loaded");
-
 const submitBtn = document.getElementById("btn");
 console.log(submitBtn);
 
