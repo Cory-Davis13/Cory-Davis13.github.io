@@ -27,6 +27,11 @@ header {
   z-index: 1;
 }
 
+main {
+  color: #343434;
+  background-color: #dfdfdf;
+}
+
 nav {
   margin-right: 120px;
 }
