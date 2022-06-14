@@ -120,13 +120,14 @@ nav li {
 
 .nav-link {
   color: #dfdfdf;
-  font-weight: 700;
+  font-weight: 500;
   padding-top: 17px;
   text-transform: uppercase;
 }
 
 .nav-link:hover {
   color: #afafaf;
+  font-weight: 700;
   border-top: 3px solid #afafaf;
 }
 
