@@ -1,6 +1,8 @@
 body {
   margin: 0;
   font-family: sans-serif;
+  color: #343434;
+  background-color: #dfdfdf;
 }
 
 html,
@@ -25,11 +27,6 @@ header {
   position: sticky;
   top: 0;
   z-index: 1;
-}
-
-main {
-  color: #343434;
-  background-color: #dfdfdf;
 }
 
 nav {
