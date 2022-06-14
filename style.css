@@ -62,12 +62,6 @@ li {
   transform: translateY(-5px);
 }
 
-.contact-form {
-  max-width: 1400px;
-  margin-right: auto;
-  margin-left: auto;
-}
-
 .header-logo {
   height: 45px;
   width: auto;
