@@ -126,9 +126,9 @@ nav li {
 }
 
 .nav-link:hover {
-  color: #afafaf;
+  color: #dfdfdf;
   font-weight: 700;
-  border-top: 3px solid #afafaf;
+  border-top: 3px solid #dfdfdf;
 }
 
 .text-content {
