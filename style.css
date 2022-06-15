@@ -214,7 +214,7 @@ nav li {
 
 .panel {
   padding: 0 18px;
-  background-color: white;
+  background-color: #dddddd;
   display: none;
   overflow: hidden;
 }
