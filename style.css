@@ -13,6 +13,7 @@ footer {
   height: auto;
   width: 100%;
   margin-top: 20px;
+  position: relative;
 }
 
 html,
@@ -231,7 +232,13 @@ nav li {
   .header-logo {
     display: none;
   }
+
   header {
+    height: 60px;
+  }
+
+  nav ul {
+    align-items: center;
     height: 60px;
   }
 
@@ -244,9 +251,7 @@ nav li {
     max-width: none;
     margin: 4rem 1rem;
   }
-}
 
-@media only screen and (max-width: 560px) {
   .contact {
     flex-direction: column;
   }
