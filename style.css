@@ -73,7 +73,7 @@ nav li {
   outline: none;
   transition: 0.4s;
   font-weight: 700;
-  margin-top: 5px;
+  margin-top: 10px;
   border: 2px solid #2f3061;
 }
 
@@ -138,6 +138,10 @@ nav li {
 
 .contact-details {
   margin: 2rem;
+}
+
+.contact-title {
+  font-weight: 600;
 }
 
 .footer-created {
